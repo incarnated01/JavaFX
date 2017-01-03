@@ -1,16 +1,8 @@
-# JavaFX
-Let's talk about JavaFX! But first, enjoy this gif of a dog failing at a dog show.
-
-![faildog]  
-
-Now, on to our assignment.
-***
+![screenshot](http://i.imgur.com/xC0ZcYY.gif)
 
 ## Description
 
-Your mission is to create a desktop app for managing contacts. It should look like this:
-
-![screenshot.png](https://tiy-learn-content.s3.amazonaws.com/899fa92c-screenshot.png)
+Create a desktop app for managing contacts.
 
 ## Requirements
 
@@ -31,5 +23,4 @@ Your mission is to create a desktop app for managing contacts. It should look li
   * Save the contacts to a file (either JSON or custom format, your choice) whenever a contact is added or removed.
   * Load that file in the `initialize` method in `Controller.java`, parse it, and populate the `contacts` with it.
 
-
-[faildog]:https://media.giphy.com/media/3oGRFvUEbJdLWlawLu/giphy.gif
+![screenshot](https://github.com/oakes/java-assignments/raw/master/3.2-javafx/screenshot.png)
